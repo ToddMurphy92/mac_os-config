@@ -18,8 +18,8 @@ fi
 #brew install openssl
 
 # OpenSSL OSX CA
-brew tap raggi/ale
-brew install openssl-osx-ca
+#brew tap raggi/ale
+#brew install openssl-osx-ca
 
 # asciinema
 #brew install asciinema
